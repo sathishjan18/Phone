@@ -10,7 +10,7 @@ public class InternalStorage {
 	public static void main(String[] args) {
 		InternalStorage i= new InternalStorage();
 		i.processorName();
-		i.ramSize();
+		
 		ExternalStorage e= new ExternalStorage();
 		e.size();
 	}
