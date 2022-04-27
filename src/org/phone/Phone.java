@@ -23,7 +23,7 @@ public class Phone {
 	    	  p.PhoneInfo(250l,'G');
 	    	  p.PhoneInfo(64l, "mp");
 	    	  p.PhoneInfo(6, "GB");
-	    	  
+	    	  p.PhoneInfo(54, "shgg");
 		}
         
 }
