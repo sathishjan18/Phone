@@ -19,10 +19,13 @@ public class Phone {
 	      public static void main(String[] args) {
 	    	  Phone p = new Phone();
 	    	  p.PhoneInfo();
+	    	  
 	    	  p.PhoneInfo("Samsung");
 	    	  p.PhoneInfo(250l,'G');
 	    	  p.PhoneInfo(64l, "mp");
 	    	  p.PhoneInfo(6, "GB");
+	    	  
+	    	  p.PhoneInfo("iphone");
 		}
         
 }
